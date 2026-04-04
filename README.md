@@ -24,3 +24,4 @@ Infrastructure & DevOps engineer focused on automating everything from provision
 - [**jellyfin-ansible**](https://github.com/i-robert2/jellyfin-ansible) — Automated Jellyfin media server deployment with Nginx reverse proxy
 - [**terraform-sentinel-policies**](https://github.com/i-robert2/terraform-sentinel-policies) — Policy-as-code for infrastructure governance on Proxmox
 - [**script-arch-linux**](https://github.com/i-robert2/script-arch-linux) — Bash-based Arch Linux installer for learning Linux internals
+- [**fedora-customization-script**](https://github.com/i-robert2/fedora-customization-script) — Modular bash framework for automated Fedora workstation setup (self-hosted services, dev tools, monitoring)
