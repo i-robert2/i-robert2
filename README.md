@@ -2,6 +2,8 @@
 
 Infrastructure & DevOps engineer focused on automating everything from provisioning to deployment.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mihai-ionita/)
+
 ### What I work with
 
 **Infrastructure**: Terraform, Proxmox VE, QEMU/KVM, LXC containers
