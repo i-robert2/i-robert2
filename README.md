@@ -1,26 +1,40 @@
-## Hey, I'm Robert
+## Hey, I'm Robert 👋
 
-Infrastructure & DevOps engineer focused on automating everything from provisioning to deployment.
+**Cloud DevOps engineer** specializing in Kubernetes on Azure. I automate the full path from
+infrastructure to production — Terraform, CI/CD, GitOps, observability and cloud security — and ship
+it cost-aware and verified.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-i--robert2.github.io-60a5fa?style=flat&logo=githubpages&logoColor=white)](https://i-robert2.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mihai-ionita/)
+
+> 13 hands-on Azure projects, junior to senior — each deployed for real, verified end-to-end, and torn
+> down to keep costs near zero. Explore them at **[i-robert2.github.io](https://i-robert2.github.io)**.
 
 ### What I work with
 
-**Infrastructure**: Terraform, Proxmox VE, QEMU/KVM, LXC containers
+**Cloud & Platform**: Azure, AKS, Azure Front Door, Key Vault, Entra ID · AWS (learning)
 
-**Configuration**: Ansible, Bash scripting
+**Kubernetes**: Helm, Argo CD, Argo Rollouts, Kyverno, ingress-nginx, cert-manager
 
-**CI/CD**: GitLab CI/CD, GitHub Actions
+**Infrastructure as Code**: Terraform, Ansible, Sentinel
 
-**Policy & Governance**: HashiCorp Sentinel
+**CI/CD**: GitHub Actions, Azure DevOps, Jenkins, GitLab CI
 
-**Systems**: Linux (Debian, Fedora, Arch), Nginx, Docker, Podman
+**Observability**: Prometheus, Grafana, Loki, Tempo, OpenTelemetry
 
-**Networking**: VPN (WireGuard), firewall management, DNS
+**Security & Governance**: Trivy, Cosign, SBOM, Azure Policy, OIDC / Workload Identity, PIM
 
-### Projects
+**Practices**: GitOps, Progressive Delivery, DR (RTO/RPO), FinOps, Landing Zones, SRE / SLOs
 
-- [**DevOps-Gitlab-Infra**](https://github.com/oprobiu/DevOps-Gitlab-Infra) — Full IaC pipeline: Terraform + Ansible + Sentinel + GitLab CI on Proxmox VE
-- [**jellyfin-ansible**](https://github.com/i-robert2/jellyfin-ansible) — Automated Jellyfin media server deployment with Nginx reverse proxy
-- [**terraform-sentinel-policies**](https://github.com/i-robert2/terraform-sentinel-policies) — Policy-as-code for infrastructure governance on Proxmox
-- [**script-arch-linux**](https://github.com/i-robert2/script-arch-linux) — Bash-based Arch Linux installer for learning Linux internals
+**Foundations**: Linux (Debian, Fedora, Arch), Docker, Podman, Nginx, DNS, WireGuard
+
+### Featured projects
+
+- [**Multi-Region DR + FinOps**](https://github.com/i-robert2/azure-s3-dr-finops) — Active-passive DR across two Azure regions with Front Door failover (measured RTO 17.2s), a cross-region Postgres replica, and a quantified FinOps report.
+- [**Hub-Spoke Landing Zone**](https://github.com/i-robert2/azure-s2-landing-zone) — Management groups, Azure Firewall forced-tunnel egress, deny/audit Azure Policy, and Entra governance with break-glass + PIM.
+- [**GitOps with Argo CD**](https://github.com/i-robert2/azure-s1-argocd-gitops) — Pull-based GitOps on AKS: App-of-Apps, OCI Helm charts, Entra OIDC SSO, verified self-healing.
+- [**Progressive Delivery**](https://github.com/i-robert2/azure-argo-rollouts) — Analysis-gated canary on AKS with Argo Rollouts + Prometheus: auto-promote on SLO, auto-rollback on breach.
+- [**Observability Stack**](https://github.com/i-robert2/azure-m3-observability-stack) — Prometheus, Grafana, Loki, Tempo and OpenTelemetry with SLO alerting on AKS.
+- [**CI/CD + Supply-Chain Security**](https://github.com/i-robert2/azure-m2-ghactions-aks) — GitHub Actions OIDC pipeline: Trivy scanning, Cosign signing, Kyverno admission enforcement, SonarCloud gate.
+
+More on my **[portfolio »](https://i-robert2.github.io)** and across my [repositories](https://github.com/i-robert2?tab=repositories).
