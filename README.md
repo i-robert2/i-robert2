@@ -12,7 +12,7 @@ it cost-aware and verified.
 
 ### What I work with
 
-**Cloud & Platform**: Azure, AKS, Azure Front Door, Key Vault, Entra ID · AWS (learning)
+**Cloud & Platform**: Azure, AKS, Azure Front Door, Key Vault, Entra ID · AWS (learning) · GCP & Apigee (prior support role)
 
 **Kubernetes**: Helm, Argo CD, Argo Rollouts, Kyverno, ingress-nginx, cert-manager
 
