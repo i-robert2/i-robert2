@@ -8,7 +8,7 @@ it cost-aware and verified.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-mihai-ionita/)
 
 > 13 hands-on Azure projects, junior to senior — each deployed for real, verified end-to-end, and torn
-> down to keep costs near zero. Explore them at **[i-robert2.github.io](https://i-robert2.github.io)**.
+> down to keep costs near zero.
 
 ### What I work with
 
